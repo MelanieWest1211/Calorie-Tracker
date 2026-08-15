@@ -25,5 +25,4 @@ A repository of a calorie tracker app I made as part of my mobile app developmen
 
 --GETTING STARTED--
 - In order to install and use the app, simply download the APK file provided
-- The source code for this project is provided in the source code folder
 - Please note, this app is only compatible for android devices running android 12 or above
