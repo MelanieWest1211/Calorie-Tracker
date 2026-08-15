@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027159570849",
+    "project_id": "calorie-tracker-55b20",
+    "storage_bucket": "calorie-tracker-55b20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027159570849:android:b9db9b38b877811e1673e0",
+        "android_client_info": {
+          "package_name": "com.example.caltrackcoursework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFcouGpezX1nk0DrTEhV2wamzC7fZ2cs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027159570849:android:b3be70c1ce78f8331673e0",
+        "android_client_info": {
+          "package_name": "com.example.f429669"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFcouGpezX1nk0DrTEhV2wamzC7fZ2cs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
